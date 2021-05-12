@@ -362,7 +362,6 @@ class GUI:
         tm.start()
         
         #selecting image 
-
         self.dp = Label(self.top_frame, bg = "red", image = self.loading(self.img_f), width = 50, height = 35)
         self.dp.bind('<Double-1>', self.preview)
         
