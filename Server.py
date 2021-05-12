@@ -33,7 +33,7 @@ def manage_client(client):
             # BROADCAST
             message = client.recv(1024)
             broadcast(message)
-            
+           
         except:
             # CLOSE CONNECTION
             index = clients.index(client)
