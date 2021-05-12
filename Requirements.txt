@@ -1,0 +1,6 @@
+#Make sure to download the modules using  pip install <module name> before importing.
+tkinter
+time
+pillow
+os
+shelve
