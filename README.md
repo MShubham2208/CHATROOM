@@ -1,5 +1,5 @@
 # CHATROOM
-Chatroom using python languages. to text with people over LAN.
+Chatroom using python languages to text with people over LAN.
 Based on Socket Programming.
 
 #Note 
